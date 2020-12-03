@@ -1,7 +1,26 @@
 #EXTM3U
 
-ages/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",TIGO SPORTS PY
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",TIGO SPORTS  HD PY.
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/3dae5c63b5f04813b64fae5bd14eacae/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",TIGO SPORTS  HD + PY.
+http://moontools.me:8080/axelgonz/g4J7Q2Ywh9/98513
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",PARAGUAY TIGO SPORTS PLUS
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/3dae5c63b5f04813b64fae5bd14eacae/index_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",TIGO SPORTS BOLIVIA
+https://d3se10hfv3clbn.cloudfront.net/out/v1/4f24ccae9b2142708bf0b8cb4a5c9a6d/index_26.m3u8
+
+#EXTINF:-1,BOVILIA  TIGO SPORTS 1
+http://moontools.me:8080/axelgonz/g4J7Q2Ywh9/1124448
+
+#EXTINF:-1,BOLIVIA  TIGO SPORTS 2
+http://moontools.me:8080/axelgonz/g4J7Q2Ywh9/1124449
+
+#EXTINF:-1,Gutemala TIGO SPORTS HD
+http://moontools.me:8080/amilcarbarrientos/DZbYYkkdZn/1169593
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",TNT SPORTS
@@ -293,10 +312,6 @@ http://moontools.me:8080/series/freddiemi/wXN6ZCvjWS/58044.mp4
 http://moontools.me:8080/series/freddiemi/wXN6ZCvjWS/58045.mp4
 #EXTINF:-1,Pablo Escobar S01 E112
 http://moontools.me:8080/series/freddiemi/wXN6ZCvjWS/58046.mp4
-
-
-
-
 
 
 
