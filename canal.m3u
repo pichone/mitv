@@ -1,12 +1,30 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",Contacte con Su Proveedor de tv
-https://i.blogs.es/d6c47c/oreo/450_1000.jpg
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",TIGO SPORTS HD
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/3dae5c63b5f04813b64fae5bd14eacae/index_4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",Contacte con su Proveedor de tv
-https://i.blogs.es/d6c47c/oreo/450_1000.jpg
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",TIGO SPORTS HD +
+https://d2jluxxgx550su.cloudfront.net/out/v1/e41f1568b50d49229b095520e71de7ce/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.abc.com.py/pf/resources/images/OG-Image-ABC-TV.png?d=507" group-title="PARAGUAY", ABC TV
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1149496702568562690/iRbUmH0U_400x400.jpg" group-title="PARAGUAY",TVS ENCARNACION
+https://copaco.desdeparaguay.net/tvs/tvs/chunklist_w1798522901.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2019/03/Paraguay-TV-nueva-imagen.jpg" group-title="PARAGUAY", MI TV OBLIGADO
+http://copaco.desdeparaguay.net:1935/mitv/mitv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.television.com.py/wp-content/uploads/2019/03/Paraguay-TV-nueva-imagen.jpg" group-title="PARAGUAY", PARTY TV 105.5
+https://inliveserver.com:1936/11032/11032/playlist.m3u8
+
 
 
 
